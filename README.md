@@ -34,16 +34,16 @@ AWS Textract | AWS Translate | Git | MySQL | Power BI
 ## 🚀 Featured Projects
 
 🔹 **Traffic Flow Forecasting (LSTM + SARIMA)**  
-Time-series forecasting for smart city congestion prediction  
+    Time-series forecasting for smart city congestion prediction  
 
 🔹 **Soil Classification & Crop Recommendation**  
-ML-based soil analysis with crop suggestions  
+    ML-based soil analysis with crop suggestions  
 
 🔹 **Language Translator Web App**  
-OCR + Translation + Image reconstruction using AWS  
+    OCR + Translation + Image reconstruction using AWS  
 
 🔹 **Churn Prediction Web App (End-to-End ML Deployment)**  
-Full pipeline: Model + API + Dashboard + Deployment  
+    Full pipeline: Model + API + Dashboard + Deployment  
 
 👉 Check my repositories below for demos & code
 
