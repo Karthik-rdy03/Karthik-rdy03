@@ -2,13 +2,13 @@
 
 🎯 Python Developer | Machine Learning Engineer | AI Enthusiast  
 💡 Building real-world ML & Web applications  
-🚀 Open to ML Engineer / Python Developer / SDE roles  
+🚀 Open to ML Engineer / Python Developer / Data Analyst roles  
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE (AI & ML)
-- 🤖 Passionate about Artificial Intelligence & Machine Learning, Time Series Forecasting, and        Frontend Development
+- 🤖 Passionate about Artificial Intelligence & Machine Learning, Time Series Forecasting, and Frontend Development
 - 🧠 Love solving real-world problems using data & intelligent systems
 - 🌱 Currently improving DSA + System Design
 - ⚡ Goal: Become a strong ML Engineer / Software Developer
@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-Python | SQL | HTML | Java (Basics)
+Python | SQL | HTML | CSS | Java (Basics)
 
 ### 🤖 Machine Learning
 Scikit-learn | TensorFlow | Keras | Pandas | NumPy | NLP | Time Series | LSTM | SARIMA
